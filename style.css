@@ -1,0 +1,27 @@
+body {
+    background: #FFFF00
+}
+
+#banner {
+    width:100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px
+}
+
+.itens {
+    font-style: italic
+}
