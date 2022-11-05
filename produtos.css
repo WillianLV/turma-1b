@@ -29,7 +29,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #C78C19;
+    color: #FFD700;
     text-decoration: underline;
 }
 
@@ -52,7 +52,7 @@ nav a:hover {
 }
 
 .produtos li:hover {
-    border-color: #C78C19;
+    border-color: #FFD700;
 }
 
 .produtos li:active {
